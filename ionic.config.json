@@ -1,0 +1,7 @@
+{
+  "name": "myDeviceApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
